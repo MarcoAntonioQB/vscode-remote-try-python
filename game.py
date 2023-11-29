@@ -1,6 +1,8 @@
 # Iniciando la aleatorización de las opciones del juego
 import random
 
+
+# Inicializando las variables para contar partidas, vitorias, derrotas y empates
 partidas = 0
 victorias = 0
 empates = 0
